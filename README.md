@@ -34,7 +34,7 @@ sorter.html   # Main HTML, CSS, and JS combined
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/sujal-321/sorting-visualizer.git
+git clone https://github.com/sujal-321/Sorting-Visualiser
 cd sorting-visualizer
 
 2️⃣ Open in Browser
